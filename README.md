@@ -70,5 +70,5 @@ docker build -t 0g-chain-testnet .
 
 ### Шаг 7: Запуск Docker-контейнера
 ```bash
-docker run -it --name 0g-chain-testnet n0tabuzer/0g-chain-testnet:Main
+docker run -it --name --restart always 0g-chain-testnet n0tabuzer/0g-chain-testnet:Main
 ```
