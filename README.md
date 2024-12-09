@@ -52,8 +52,8 @@ docker --version
 
 ### Шаг 3: Клонирование репозитория
 ```bash
-git clone https://github.com/N0tAbuzer/0G-Testet.git
-cd 0G-Testet
+https://github.com/N0tAbuzer/0G-Chain-Testet.git
+cd 0G-Chain-Testet
 ```
 
 ### Шаг 4: Настройка конфигурации
