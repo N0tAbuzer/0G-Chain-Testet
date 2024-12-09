@@ -1,0 +1,16 @@
+{
+  "name": "0g_chain_testnet",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ethers": "^6.13.4",
+    "winston": "^3.17.0"
+  }
+}
